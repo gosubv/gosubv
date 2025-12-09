@@ -1,5 +1,5 @@
 {
-21:09:15.147	    "name": "worker-name",
-21:09:15.147	    "compatibility_date": "2025-12-09",
-21:09:15.147	    "main": "index.html"
-21:09:15.147	  }
+  "name": "worker-name",
+  "compatibility_date": "2025-12-09",
+  "main": "index.html"
+}
